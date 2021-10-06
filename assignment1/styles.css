@@ -1,0 +1,11 @@
+table.table1 {
+    width:50%; 
+    margin-bottom:10%;
+    margin-right:15%;
+    margin-top:-5%;
+  }
+  th {
+    background-color: white;
+    color: black;
+  }
+  
